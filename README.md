@@ -1,6 +1,12 @@
-# Getting Started with Create React App
+# Real Estate Marketplace made with React and Firebase
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is live on [here]()
+
+-CRUD Real Time Database
+-Forgot Password
+-Sign in/up with Google
+-Contact
+-Authentication
 
 ## Available Scripts
 
